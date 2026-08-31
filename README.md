@@ -12,14 +12,14 @@ Criar uma aplicação simples e intuitiva onde o usuário possa organizar suas t
 
 ### Versão inicial
 
-- [ ] Criar tarefas
-- [ ] Definir data de entrega
-- [ ] Definir horário
+- [x] Criar tarefas
+- [x] Definir data de entrega
+- [x] Definir horário
 - [ ] Definir prioridade
 - [ ] Visualizar tarefas
-- [ ] Editar tarefas
-- [ ] Excluir tarefas
-- [ ] Marcar tarefas como concluídas
+- [x] Editar tarefas
+- [x] Excluir tarefas
+- [x] Marcar tarefas como concluídas
 - [ ] Visualizar progresso
 
 ### Futuras funcionalidades
