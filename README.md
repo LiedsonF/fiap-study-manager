@@ -15,22 +15,12 @@ Criar uma aplicação simples e intuitiva onde o usuário possa organizar suas t
 - [x] Criar tarefas
 - [x] Definir data de entrega
 - [x] Definir horário
-- [ ] Definir prioridade
-- [ ] Visualizar tarefas
+- [x] Definir prioridade
+- [x] Visualizar tarefas
 - [x] Editar tarefas
 - [x] Excluir tarefas
 - [x] Marcar tarefas como concluídas
-- [ ] Visualizar progresso
-
-### Futuras funcionalidades
-
-- [ ] Criar eventos e compromissos
-- [ ] Detectar conflitos entre tarefas e eventos
-- [ ] Sugerir prioridades automaticamente
-- [ ] Sistema de notificações
-- [ ] Armazenamento em banco de dados
-- [ ] Sistema de login
-- [ ] Responsividade para dispositivos móveis
+- [x] Visualizar progresso
 
 ## 🛠️ Tecnologias
 
